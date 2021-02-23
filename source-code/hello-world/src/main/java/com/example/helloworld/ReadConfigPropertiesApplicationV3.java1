@@ -1,0 +1,28 @@
+package com.example.helloworld;
+
+import com.example.helloworld.entity.WebSite;
+import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
+import org.springframework.beans.factory.InitializingBean;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ReadConfigPropertiesApplicationV3  implements InitializingBean {
+
+    public static void main(String[] args) {
+        SpringApplication.run(ReadConfigPropertiesApplicationV3.class, args);
+    }
+
+    /**
+     * 和 ReadConfigPropertiesApplicationV1  ReadConfigPropertiesApplicationV2 相比，需要手工指定每个配置，相对不那么友好
+     */
+    @Autowired
+    private WebSite webSite;
+
+
+    @Override
+    public void afterPropertiesSet() throws Exception {
+        System.out.println("url:" + webSite.getUrl());
+    }
+}

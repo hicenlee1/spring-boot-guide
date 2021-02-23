@@ -1,0 +1,35 @@
+package com.example.helloworld;
+
+
+import com.example.helloworld.entity.LibraryProperties;
+import org.springframework.beans.factory.InitializingBean;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+/**
+ * 配置文件读取 spring boot 验证
+ */
+
+@SpringBootApplication
+public class ReadConfigPropertiesApplication1 implements InitializingBean {
+    public static void main(String[] args) {
+        SpringApplication.run(ReadConfigPropertiesApplication1.class, args);
+    }
+
+
+    /**
+     * LibraryProperties 有 Component 注解，可以直接使用注入
+     * 推荐使用这种方式
+     */
+    private LibraryProperties libraryProperties;
+
+    public ReadConfigPropertiesApplication1(LibraryProperties libraryProperties) {
+        this.libraryProperties = libraryProperties;
+    }
+
+    @Override
+    public void afterPropertiesSet() throws Exception {
+        System.out.println(libraryProperties.getLocation());
+        System.out.println(libraryProperties.getBooks());
+    }
+}
