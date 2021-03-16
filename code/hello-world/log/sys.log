@@ -1,0 +1,80 @@
+2021-03-08 11:34:45,493 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 55] Starting RedisTest on MZKJ-PC-02196 with PID 1172 (started by haiyang1 in E:\code\github\springboot-guide\code\hello-world)
+2021-03-08 11:34:45,494 [DEBUG] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 56] Running with Spring Boot v2.3.9.RELEASE, Spring v5.2.13.RELEASE
+2021-03-08 11:34:45,494 [INFO] [main] com.example.helloworld.redis.RedisTest [SpringApplication.java : 651] No active profile set, falling back to default profiles: default
+2021-03-08 11:34:51,821 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 61] Started RedisTest in 6.944 seconds (JVM running for 7.996)
+2021-03-08 11:37:12,257 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 55] Starting RedisTest on MZKJ-PC-02196 with PID 32292 (started by haiyang1 in E:\code\github\springboot-guide\code\hello-world)
+2021-03-08 11:37:12,258 [DEBUG] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 56] Running with Spring Boot v2.3.9.RELEASE, Spring v5.2.13.RELEASE
+2021-03-08 11:37:12,259 [INFO] [main] com.example.helloworld.redis.RedisTest [SpringApplication.java : 651] No active profile set, falling back to default profiles: default
+2021-03-08 11:37:18,413 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 61] Started RedisTest in 6.894 seconds (JVM running for 7.792)
+2021-03-08 11:37:18,551 [INFO] [main] com.example.helloworld.redis.RedisTest [RedisTest.java : 24] null
+2021-03-08 11:37:40,414 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 55] Starting RedisTest on MZKJ-PC-02196 with PID 32664 (started by haiyang1 in E:\code\github\springboot-guide\code\hello-world)
+2021-03-08 11:37:40,416 [DEBUG] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 56] Running with Spring Boot v2.3.9.RELEASE, Spring v5.2.13.RELEASE
+2021-03-08 11:37:40,417 [INFO] [main] com.example.helloworld.redis.RedisTest [SpringApplication.java : 651] No active profile set, falling back to default profiles: default
+2021-03-08 11:37:46,787 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 61] Started RedisTest in 6.87 seconds (JVM running for 7.808)
+2021-03-08 11:37:46,921 [INFO] [main] com.example.helloworld.redis.RedisTest [RedisTest.java : 24] value=null
+2021-03-08 11:38:36,878 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 55] Starting RedisTest on MZKJ-PC-02196 with PID 32236 (started by haiyang1 in E:\code\github\springboot-guide\code\hello-world)
+2021-03-08 11:38:36,880 [DEBUG] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 56] Running with Spring Boot v2.3.9.RELEASE, Spring v5.2.13.RELEASE
+2021-03-08 11:38:36,880 [INFO] [main] com.example.helloworld.redis.RedisTest [SpringApplication.java : 651] No active profile set, falling back to default profiles: default
+2021-03-08 11:38:42,911 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 61] Started RedisTest in 6.558 seconds (JVM running for 7.489)
+2021-03-08 11:38:42,976 [INFO] [main] com.example.helloworld.redis.RedisTest [RedisTest.java : 24] -----------------------------
+2021-03-08 11:38:43,044 [INFO] [main] com.example.helloworld.redis.RedisTest [RedisTest.java : 25] value=null
+2021-03-08 11:38:51,668 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 55] Starting RedisTest on MZKJ-PC-02196 with PID 29940 (started by haiyang1 in E:\code\github\springboot-guide\code\hello-world)
+2021-03-08 11:38:51,669 [DEBUG] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 56] Running with Spring Boot v2.3.9.RELEASE, Spring v5.2.13.RELEASE
+2021-03-08 11:38:51,670 [INFO] [main] com.example.helloworld.redis.RedisTest [SpringApplication.java : 651] No active profile set, falling back to default profiles: default
+2021-03-08 11:38:57,624 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 61] Started RedisTest in 6.522 seconds (JVM running for 7.42)
+2021-03-08 11:39:03,423 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 55] Starting RedisTest on MZKJ-PC-02196 with PID 31880 (started by haiyang1 in E:\code\github\springboot-guide\code\hello-world)
+2021-03-08 11:39:03,425 [DEBUG] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 56] Running with Spring Boot v2.3.9.RELEASE, Spring v5.2.13.RELEASE
+2021-03-08 11:39:03,426 [INFO] [main] com.example.helloworld.redis.RedisTest [SpringApplication.java : 651] No active profile set, falling back to default profiles: default
+2021-03-08 11:39:09,604 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 61] Started RedisTest in 6.882 seconds (JVM running for 7.776)
+2021-03-08 11:39:09,683 [INFO] [main] com.example.helloworld.redis.RedisTest [RedisTest.java : 24] -----------------------------
+2021-03-08 11:39:09,830 [INFO] [main] com.example.helloworld.redis.RedisTest [RedisTest.java : 25] value=test
+2021-03-08 11:39:28,576 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 55] Starting RedisTest on MZKJ-PC-02196 with PID 33208 (started by haiyang1 in E:\code\github\springboot-guide\code\hello-world)
+2021-03-08 11:39:28,578 [DEBUG] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 56] Running with Spring Boot v2.3.9.RELEASE, Spring v5.2.13.RELEASE
+2021-03-08 11:39:28,578 [INFO] [main] com.example.helloworld.redis.RedisTest [SpringApplication.java : 651] No active profile set, falling back to default profiles: default
+2021-03-08 11:39:34,770 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 61] Started RedisTest in 6.739 seconds (JVM running for 7.593)
+2021-03-08 11:39:34,865 [INFO] [main] com.example.helloworld.redis.RedisTest [RedisTest.java : 24] -----------------------------
+2021-03-08 11:40:48,260 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 55] Starting RedisTest on MZKJ-PC-02196 with PID 19816 (started by haiyang1 in E:\code\github\springboot-guide\code\hello-world)
+2021-03-08 11:40:48,261 [DEBUG] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 56] Running with Spring Boot v2.3.9.RELEASE, Spring v5.2.13.RELEASE
+2021-03-08 11:40:48,262 [INFO] [main] com.example.helloworld.redis.RedisTest [SpringApplication.java : 651] No active profile set, falling back to default profiles: default
+2021-03-08 11:40:54,543 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 61] Started RedisTest in 6.924 seconds (JVM running for 7.805)
+2021-03-08 11:40:54,625 [INFO] [main] com.example.helloworld.redis.RedisTest [RedisTest.java : 24] -----------------------------
+2021-03-08 11:41:31,232 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 55] Starting RedisTest on MZKJ-PC-02196 with PID 33476 (started by haiyang1 in E:\code\github\springboot-guide\code\hello-world)
+2021-03-08 11:41:31,233 [DEBUG] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 56] Running with Spring Boot v2.3.9.RELEASE, Spring v5.2.13.RELEASE
+2021-03-08 11:41:31,234 [INFO] [main] com.example.helloworld.redis.RedisTest [SpringApplication.java : 651] No active profile set, falling back to default profiles: default
+2021-03-08 11:41:37,370 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 61] Started RedisTest in 6.719 seconds (JVM running for 7.653)
+2021-03-08 11:41:37,424 [INFO] [main] com.example.helloworld.redis.RedisTest [RedisTest.java : 24] -----------------------------
+2021-03-08 11:42:24,223 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 55] Starting RedisTest on MZKJ-PC-02196 with PID 31880 (started by haiyang1 in E:\code\github\springboot-guide\code\hello-world)
+2021-03-08 11:42:24,225 [DEBUG] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 56] Running with Spring Boot v2.3.9.RELEASE, Spring v5.2.13.RELEASE
+2021-03-08 11:42:24,225 [INFO] [main] com.example.helloworld.redis.RedisTest [SpringApplication.java : 651] No active profile set, falling back to default profiles: default
+2021-03-08 11:42:30,355 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 61] Started RedisTest in 6.898 seconds (JVM running for 7.791)
+2021-03-08 11:42:30,433 [INFO] [main] com.example.helloworld.redis.RedisTest [RedisTest.java : 24] -----------------------------
+2021-03-08 13:52:01,782 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 55] Starting RedisTest on MZKJ-PC-02196 with PID 32292 (started by haiyang1 in E:\code\github\springboot-guide\code\hello-world)
+2021-03-08 13:52:01,810 [DEBUG] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 56] Running with Spring Boot v2.3.9.RELEASE, Spring v5.2.13.RELEASE
+2021-03-08 13:52:01,811 [INFO] [main] com.example.helloworld.redis.RedisTest [SpringApplication.java : 651] No active profile set, falling back to default profiles: default
+2021-03-08 13:53:01,367 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 55] Starting RedisTest on MZKJ-PC-02196 with PID 32460 (started by haiyang1 in E:\code\github\springboot-guide\code\hello-world)
+2021-03-08 13:53:01,368 [DEBUG] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 56] Running with Spring Boot v2.3.9.RELEASE, Spring v5.2.13.RELEASE
+2021-03-08 13:53:01,368 [INFO] [main] com.example.helloworld.redis.RedisTest [SpringApplication.java : 651] No active profile set, falling back to default profiles: default
+2021-03-08 13:53:24,297 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 55] Starting RedisTest on MZKJ-PC-02196 with PID 5040 (started by haiyang1 in E:\code\github\springboot-guide\code\hello-world)
+2021-03-08 13:53:24,298 [DEBUG] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 56] Running with Spring Boot v2.3.9.RELEASE, Spring v5.2.13.RELEASE
+2021-03-08 13:53:24,299 [INFO] [main] com.example.helloworld.redis.RedisTest [SpringApplication.java : 651] No active profile set, falling back to default profiles: default
+2021-03-08 13:54:31,307 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 55] Starting RedisTest on MZKJ-PC-02196 with PID 6944 (started by haiyang1 in E:\code\github\springboot-guide\code\hello-world)
+2021-03-08 13:54:31,308 [DEBUG] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 56] Running with Spring Boot v2.3.9.RELEASE, Spring v5.2.13.RELEASE
+2021-03-08 13:54:31,308 [INFO] [main] com.example.helloworld.redis.RedisTest [SpringApplication.java : 651] No active profile set, falling back to default profiles: default
+2021-03-08 14:01:21,803 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 55] Starting RedisTest on MZKJ-PC-02196 with PID 27656 (started by haiyang1 in E:\code\github\springboot-guide\code\hello-world)
+2021-03-08 14:01:21,804 [DEBUG] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 56] Running with Spring Boot v2.3.9.RELEASE, Spring v5.2.13.RELEASE
+2021-03-08 14:01:21,804 [INFO] [main] com.example.helloworld.redis.RedisTest [SpringApplication.java : 651] No active profile set, falling back to default profiles: default
+2021-03-08 14:05:29,110 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 55] Starting RedisTest on MZKJ-PC-02196 with PID 24912 (started by haiyang1 in E:\code\github\springboot-guide\code\hello-world)
+2021-03-08 14:05:29,111 [DEBUG] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 56] Running with Spring Boot v2.3.9.RELEASE, Spring v5.2.13.RELEASE
+2021-03-08 14:05:29,111 [INFO] [main] com.example.helloworld.redis.RedisTest [SpringApplication.java : 651] No active profile set, falling back to default profiles: default
+2021-03-08 14:05:36,159 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 61] Started RedisTest in 7.763 seconds (JVM running for 9.177)
+2021-03-08 14:05:36,245 [INFO] [main] com.example.helloworld.redis.RedisTest [RedisTest.java : 24] -----------------------------
+2021-03-08 14:05:36,761 [INFO] [main] com.example.helloworld.redis.RedisTest [RedisTest.java : 25] value=null
+2021-03-08 14:12:02,890 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 55] Starting RedisTest on MZKJ-PC-02196 with PID 25160 (started by haiyang1 in E:\code\github\springboot-guide\code\hello-world)
+2021-03-08 14:12:02,891 [DEBUG] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 56] Running with Spring Boot v2.3.9.RELEASE, Spring v5.2.13.RELEASE
+2021-03-08 14:12:02,891 [INFO] [main] com.example.helloworld.redis.RedisTest [SpringApplication.java : 651] No active profile set, falling back to default profiles: default
+2021-03-08 14:15:28,953 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 55] Starting RedisTest on MZKJ-PC-02196 with PID 23928 (started by haiyang1 in E:\code\github\springboot-guide\code\hello-world)
+2021-03-08 14:15:28,954 [DEBUG] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 56] Running with Spring Boot v2.3.9.RELEASE, Spring v5.2.13.RELEASE
+2021-03-08 14:15:28,955 [INFO] [main] com.example.helloworld.redis.RedisTest [SpringApplication.java : 651] No active profile set, falling back to default profiles: default
+2021-03-08 14:15:37,714 [INFO] [main] com.example.helloworld.redis.RedisTest [StartupInfoLogger.java : 61] Started RedisTest in 9.307 seconds (JVM running for 10.174)
+2021-03-08 14:15:37,776 [INFO] [main] com.example.helloworld.redis.RedisTest [RedisTest.java : 24] -----------------------------
+2021-03-08 14:15:38,226 [INFO] [main] com.example.helloworld.redis.RedisTest [RedisTest.java : 25] value=null

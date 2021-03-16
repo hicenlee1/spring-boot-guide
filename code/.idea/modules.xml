@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" filepath="$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-provider/dubbo-provider.iml" filepath="$PROJECT_DIR$/dubbo-provider/dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbointerface/dubbointerface.iml" filepath="$PROJECT_DIR$/dubbointerface/dubbointerface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world.iml" filepath="$PROJECT_DIR$/hello-world/hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisgeneratorcommentplugin/mybatisgeneratorcommentplugin.iml" filepath="$PROJECT_DIR$/mybatisgeneratorcommentplugin/mybatisgeneratorcommentplugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisgeneratorlombokplugin/mybatisgeneratorlombokplugin.iml" filepath="$PROJECT_DIR$/mybatisgeneratorlombokplugin/mybatisgeneratorlombokplugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-multi-datasoruce/spring-boot-multi-datasoruce.iml" filepath="$PROJECT_DIR$/spring-boot-multi-datasoruce/spring-boot-multi-datasoruce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis-annotation/spring-boot-mybatis-annotation.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis-annotation/spring-boot-mybatis-annotation.iml" />
+    </modules>
+  </component>
+</project>

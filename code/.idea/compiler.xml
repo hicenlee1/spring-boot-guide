@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-consumer" />
+        <module name="dubbo-provider" />
+        <module name="dubbointerface" />
+        <module name="hello-world" />
+        <module name="mybatisgeneratorcommentplugin" />
+        <module name="mybatisgeneratorlombokplugin" />
+        <module name="spring-boot-multi-datasoruce" />
+        <module name="spring-boot-mybatis-annotation" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="dubbo-consumer" target="1.8" />
+      <module name="dubbo-provider" target="1.8" />
+      <module name="dubbointerface" target="1.8" />
+      <module name="hello-world" target="1.8" />
+      <module name="mybatisgeneratorcommentplugin" target="1.8" />
+      <module name="mybatisgeneratorlombokplugin" target="1.8" />
+      <module name="spring-boot-multi-datasoruce" target="1.8" />
+      <module name="spring-boot-mybatis-annotation" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+2021-03-02 11:34:13,011 INFO (ScheduledTasks.java:44)- Fixed Rate Task with Initial Delay : The time is now 11:34:13
+2021-03-02 11:34:13,011 INFO (ScheduledTasks.java:23)- Current Thread: my-scheduled-task-pool-3, fixed rate task, the time is 11:34:13
+2021-03-02 11:34:16,014 INFO (ScheduledTasks.java:33)- Fixed Delay Task : The time is now 11:34:16
+2021-03-02 11:34:18,012 INFO (ScheduledTasks.java:44)- Fixed Rate Task with Initial Delay : The time is now 11:34:18
+2021-03-02 11:34:18,012 INFO (ScheduledTasks.java:23)- Current Thread: my-scheduled-task-pool-4, fixed rate task, the time is 11:34:18
+2021-03-02 11:34:21,015 INFO (ScheduledTasks.java:33)- Fixed Delay Task : The time is now 11:34:21
+2021-03-02 11:34:23,012 INFO (ScheduledTasks.java:23)- Current Thread: my-scheduled-task-pool-3, fixed rate task, the time is 11:34:23
+2021-03-02 11:34:23,012 INFO (ScheduledTasks.java:44)- Fixed Rate Task with Initial Delay : The time is now 11:34:23
+2021-03-02 11:34:26,017 INFO (ScheduledTasks.java:33)- Fixed Delay Task : The time is now 11:34:26

@@ -1,0 +1,32 @@
+package com.example.helloworld;
+
+import com.example.helloworld.entity.ProfileProperties;
+import org.springframework.beans.factory.InitializingBean;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.context.properties.EnableConfigurationProperties;
+
+@SpringBootApplication
+@EnableConfigurationProperties(ProfileProperties.class)
+public class ReadConfigPropertiesApplicationV2 implements InitializingBean {
+
+    public static void main(String[] args) {
+        SpringApplication.run(ReadConfigPropertiesApplicationV2.class, args);
+    }
+
+    /**
+     * ProfileProperties 没有 Component注解，必须 在EnableConfigurationProperties中配置
+     * 和 ReadConfigPropertiesApplicationV1 基本一致，更推荐ReadConfigPropertiesApplicationV1 方式
+     */
+
+    private ProfileProperties profileProperties;
+
+    public ReadConfigPropertiesApplicationV2(ProfileProperties profileProperties) {
+        this.profileProperties = profileProperties;
+    }
+
+    @Override
+    public void afterPropertiesSet() throws Exception {
+        System.out.println(profileProperties.toString());
+    }
+}

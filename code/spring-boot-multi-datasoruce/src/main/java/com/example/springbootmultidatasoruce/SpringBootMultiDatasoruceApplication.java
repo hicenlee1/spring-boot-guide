@@ -1,0 +1,14 @@
+package com.example.springbootmultidatasoruce;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import tk.mybatis.spring.annotation.MapperScan;
+
+@SpringBootApplication
+public class SpringBootMultiDatasoruceApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SpringBootMultiDatasoruceApplication.class, args);
+    }
+
+}

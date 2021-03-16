@@ -1,0 +1,10 @@
+2021-03-03 10:01:44,139 INFO (StartupInfoLogger.java:55)- Starting HelloWorldApplication on MZKJ-PC-02196 with PID 10832 (E:\code\github\springboot-guide\code\hello-world\target\classes started by haiyang1 in E:\code\github\springboot-guide\code)
+2021-03-03 10:01:44,145 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.2.0.RELEASE, Spring v5.2.0.RELEASE
+2021-03-03 10:01:44,145 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-03-03 10:01:45,738 INFO (MyFilter2.java:22)- MyFilter2 init...
+2021-03-03 10:01:45,739 INFO (MyFilter1.java:22)- MyFilter1 init...
+2021-03-03 10:01:45,739 INFO (MyFilterWithAnnotation.java:28)- MyFilterWithAnnotation init...
+2021-03-03 10:01:48,085 INFO (StartupInfoLogger.java:61)- Started HelloWorldApplication in 4.661 seconds (JVM running for 5.299)
+2021-03-03 10:01:51,071 INFO (AsyncTasks.java:29)-  : The time is now 10:01:51
+2021-03-03 10:01:53,070 INFO (AsyncTasks.java:29)-  : The time is now 10:01:53
+2021-03-03 10:01:55,071 INFO (AsyncTasks.java:29)-  : The time is now 10:01:55
